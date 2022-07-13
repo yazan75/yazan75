@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yazan75
+- 👋 Hi, I’m @yazanZaid
 - 👀 I’m interested in artificial intelligence, cognitive and neuroscience with mathimatical modeling.
 - 🌱 I’m currently learning computational neuroscience
 - 💞️ I’m looking to collaborate on AI, computational modeling
